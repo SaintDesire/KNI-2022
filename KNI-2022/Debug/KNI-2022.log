@@ -1,0 +1,24 @@
+﻿  CodeGeneration.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\CodeGeneration.cpp(21,16): warning C4101: func: неиспользованная локальная переменная
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\CodeGeneration.cpp(620,14): warning C4129: e: неизвестная escape-последовательность
+  Error.cpp
+  FST.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(118,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(1364,26): warning C4018: <: несоответствие типов со знаком и без знака
+  GRB.cpp
+  In.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+  IT.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\IT.cpp(53,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\IT.cpp(160,22): warning C4018: <: несоответствие типов со знаком и без знака
+  KNI-2022.cpp
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+  PolishNotation.cpp
+  Out.cpp
+  Parm.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\Parm.cpp(20,11): warning C4101: wst: неиспользованная локальная переменная
+  Semantic.cpp
+  Создание кода...
+  KNI-2022.vcxproj -> D:\Nikita\KNI-2022\KNI-2022\Debug\KNI-2022.exe

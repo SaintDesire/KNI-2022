@@ -1,0 +1,73 @@
+declare uint function FindFactorial(uint a){
+	declare uint answer;
+	answer = 1;
+	while(a>1)
+	[
+	answer = answer*a;
+	a = a - 1;
+	];
+	return answer;
+	};
+main
+{
+	extern uint function RandNum(uint a);
+	extern uint function GetHours(uint a);
+	extern uint function GetMonth(uint a);
+	extern uint function GetMinutes(uint a);
+	extern uint function GetDate(uint a);
+	
+	declare char symb;
+	symb = 'q';
+	print "Symbol";
+	print symb;
+	
+	print "Factorial of number 5";
+	declare uint number;
+	number = FindFactorial(5);
+	print number;
+	
+	print "Number to be circilar shifted:";
+	declare uint demo;
+	demo = 1;
+	print demo;
+	declare uint demo1;
+	demo1 = demo/33;
+	declare uint demo2;
+	demo2 = demo\1;
+	print "1<<3:";
+	print demo1;
+	print "1>>1:";
+	print demo2;
+	
+	if(6 > 5)
+	[
+		print "If construction works";
+	]
+	if(5 > 6)
+	[
+		print "If construction not works";
+	]
+	
+	declare uint number1;
+	declare uint number2;
+	declare uint number3;
+	declare uint number4;
+	declare uint number5;
+	number1 = GetHours(1);
+	number2 = GetMinutes(1);
+	number3 = GetDate(1);
+	number4 = GetMonth(1);
+	number5 = RandNum(100);
+	
+	print "Hours:";
+	print number1;
+	print "Minutes:";
+	print number2;
+	print "Date:";
+	print number3;
+	print "Month:";
+	print number4;
+	print "Random number:";
+	print number5;
+	return 0;
+}

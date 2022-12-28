@@ -1,0 +1,30 @@
+﻿  CodeGeneration.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\CodeGeneration.cpp(21,16): warning C4101: func: неиспользованная локальная переменная
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\CodeGeneration.cpp(620,14): warning C4129: e: неизвестная escape-последовательность
+  Error.cpp
+  FST.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(118,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(1268,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(1275,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\FST.cpp(1595,7): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  GRB.cpp
+  In.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\In.cpp(22,13): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\In.cpp(121,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  IT.cpp
+  KNI-2022.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\KNI-2022.cpp(33,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\KNI-2022.cpp(33,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Log.cpp
+  LT.cpp
+  MFST.cpp
+  PolishNotation.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\PolishNotation.cpp(71,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Out.cpp
+  Parm.cpp
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\Parm.cpp(19,47): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\Parm.cpp(19,47): warning C4267: инициализация: преобразование из "size_t" в "const int"; возможна потеря данных
+D:\Nikita\KNI-2022\KNI-2022\KNI-2022\Parm.cpp(20,11): warning C4101: wst: неиспользованная локальная переменная
+  Semantic.cpp
+  Создание кода...
+  KNI-2022.vcxproj -> D:\Nikita\KNI-2022\KNI-2022\x64\Debug\KNI-2022.exe
